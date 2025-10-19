@@ -7904,3 +7904,570 @@ Sampler Limit: 32
 [2025.10.19-17.58.20:074][551]AssetCheck: /Game/DanielMonksProduction/Sounds/SFX_G_Note Validating asset
 [2025.10.19-17.58.20:109][551]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/SourceControl/UncontrolledChangelists.json
 [2025.10.19-17.58.25:989][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.10.19-18.01.11:928][437]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11830.432617
+[2025.10.19-18.01.12:103][451]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.19-18.01.12:103][451]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11830.597656, Update Interval: 303.349091
+[2025.10.19-18.01.14:774][663]Cmd: EDIT COPY
+[2025.10.19-18.01.20:403][101]Cmd: TRANSACTION UNDO
+[2025.10.19-18.01.20:403][101]LogEditorTransaction: Undo Move Elements
+[2025.10.19-18.01.23:929][341]Cmd: EDIT COPY
+[2025.10.19-18.01.24:670][398]Cmd: EDIT PASTE
+[2025.10.19-18.01.43:079][796]Cmd: EDIT PASTE
+[2025.10.19-18.01.50:985][391]Cmd: EDIT PASTE
+[2025.10.19-18.01.53:656][575]Cmd: EDIT PASTE
+[2025.10.19-18.02.01:374][163]Cmd: EDIT COPY
+[2025.10.19-18.02.08:251][709]Cmd: EDIT COPY
+[2025.10.19-18.02.09:816][825]Cmd: EDIT PASTE
+[2025.10.19-18.02.14:165][166]Cmd: EDIT PASTE
+[2025.10.19-18.02.17:475][416]Cmd: EDIT PASTE
+[2025.10.19-18.02.19:887][599]Cmd: EDIT PASTE
+[2025.10.19-18.02.29:394][348]Cmd: EDIT COPY
+[2025.10.19-18.02.31:143][490]Cmd: EDIT PASTE
+[2025.10.19-18.02.34:233][717]Cmd: EDIT PASTE
+[2025.10.19-18.02.38:067][  2]Cmd: EDIT PASTE
+[2025.10.19-18.02.40:100][153]Cmd: EDIT PASTE
+[2025.10.19-18.02.57:617][541]Cmd: EDIT COPY
+[2025.10.19-18.02.59:058][670]Cmd: EDIT PASTE
+[2025.10.19-18.03.04:434][122]Cmd: EDIT PASTE
+[2025.10.19-18.03.11:239][615]Cmd: EDIT COPY
+[2025.10.19-18.03.12:518][720]Cmd: EDIT PASTE
+[2025.10.19-18.03.14:165][844]Cmd: EDIT PASTE
+[2025.10.19-18.03.23:332][538]Cmd: EDIT COPY
+[2025.10.19-18.03.24:937][676]Cmd: EDIT PASTE
+[2025.10.19-18.03.31:982][226]Cmd: EDIT COPY
+[2025.10.19-18.03.33:002][311]Cmd: EDIT PASTE
+[2025.10.19-18.05.54:782][763]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.19-18.05.54:801][763]LogContentBundle: [MAP_DanielMonks(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.19-18.05.54:802][763]LogWorldPartition: Display: GenerateStreaming for 'MAP_DanielMonks' started...
+[2025.10.19-18.05.54:828][763]LogWorldPartition: Display: GenerateStreaming for 'MAP_DanielMonks' took 25.680 ms (total: 50.990 ms)
+[2025.10.19-18.05.54:839][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.19-18.05.54:851][763]LogPlayLevel: Display: Creating online subsystem for client :Context_76
+[2025.10.19-18.05.54:863][763]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2025.10.19-18.05.54:886][764]LogPlayLevel: Creating play world package: /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks
+[2025.10.19-18.05.54:926][764]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.19-18.05.54:927][764]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.412 ms (total: 20.832 ms)
+[2025.10.19-18.05.54:927][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040732s)
+[2025.10.19-18.05.54:928][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DanielMonksProduction/Levels/MAP_DanielMonks.MAP_DanielMonks to /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks (0.041262s)
+[2025.10.19-18.05.54:943][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.19-18.05.54:957][764]LogChaosDD: Creating Chaos Debug Draw Scene for world MAP_DanielMonks
+[2025.10.19-18.05.55:033][764]LogWorldPartition: ULevel::OnLevelLoaded(MAP_DanielMonks)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.19-18.05.55:033][764]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.19-18.05.55:033][764]LogWorldPartition: UWorldPartition::Initialize : World = /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.19-18.05.55:033][764]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.19-18.05.55:038][764]LogWorldPartition: Display: WorldPartition initialize took 4.259 ms (total: 126.614 ms)
+[2025.10.19-18.05.55:041][764]LogPlayLevel: PIE: World Init took: (0.085851s)
+[2025.10.19-18.05.55:045][764]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2025.10.19-18.05.55:047][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.19-18.05.55:047][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.19-18.05.55:047][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.19-18.05.55:047][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.19-18.05.55:047][764]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.19-18.05.55:047][764]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.19-18.05.55:047][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.19-18.05.55:047][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.19-18.05.55:050][764]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.19-18.05.55:050][764]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.19-18.05.55:050][764]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.19-18.05.55:056][764]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.19-18.05.55:080][764]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2025.10.19-18.05.55:083][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.19-18.05.55:084][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.19-18.05.55:084][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.19-18.05.55:088][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2025.10.19-18.05.55:088][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2025.10.19-18.05.55:091][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2025.10.19-18.05.55:091][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2025.10.19-18.05.55:092][764]LogInit: FAudioDevice initialized with ID 28.
+[2025.10.19-18.05.55:092][764]LogAudio: Display: Audio Device (ID: 28) registered with world 'MAP_DanielMonks'.
+[2025.10.19-18.05.55:094][764]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2025.10.19-18.05.55:147][764]LogLoad: Game class is 'BP_FirstPersonShooterGameMode_C'
+[2025.10.19-18.05.55:166][764]LogWorld: Bringing World /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks up for play (max tick rate 0) at 2025.10.19-19.05.55
+[2025.10.19-18.05.55:170][764]LogWorld: Bringing up level for play took: 0.018216
+[2025.10.19-18.05.55:326][764]LogBlueprintUserMessages: [BP_FirstPersonShooterCharacter_C_0] Hello
+[2025.10.19-18.05.55:329][764]PIE: Server logged in
+[2025.10.19-18.05.55:333][764]PIE: Play in editor total start time 0.538 seconds.
+[2025.10.19-18.05.55:415][765]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.19-18.06.58:232][769]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12176.756836
+[2025.10.19-18.06.58:391][782]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.19-18.06.58:391][782]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12176.903320, Update Interval: 354.931488
+[2025.10.19-18.07.56:829][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.19-18.07.56:829][440]LogWorld: BeginTearingDown for /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks
+[2025.10.19-18.07.56:837][440]LogWorld: UWorld::CleanupWorld for MAP_DanielMonks, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-18.07.56:845][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.07.56:848][440]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks
+[2025.10.19-18.07.56:870][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.19-18.07.56:874][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.07.56:891][440]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.19-18.07.56:893][440]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2025.10.19-18.07.56:894][440]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=4
+[2025.10.19-18.07.56:898][440]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28, StreamState=2
+[2025.10.19-18.07.56:904][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.19-18.07.56:937][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.19-18.07.57:005][441]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2025.10.19-18.11.40:865][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.19-18.11.40:876][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/UN/6N3UPAYTSOY3748BCG4QER_Auto6
+[2025.10.19-18.11.40:876][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/6N3UPAYTSOY3748BCG4QER_Auto6D0751D244AA198C240F356AD3B592704.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/UN/6N3UPAYTSOY3748BCG4QER_Auto6.uasset'
+[2025.10.19-18.11.40:877][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/3/OU/4WVIKRM883S1OKCODITVI6_Auto6
+[2025.10.19-18.11.40:877][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/4WVIKRM883S1OKCODITVI6_Auto6CC1C9FEA407D4E4FEC5A9199CBA728A3.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/3/OU/4WVIKRM883S1OKCODITVI6_Auto6.uasset'
+[2025.10.19-18.11.40:879][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/1/GR/EOEZJ3SOVX1C9GMQQ7RPOM_Auto6
+[2025.10.19-18.11.40:879][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/EOEZJ3SOVX1C9GMQQ7RPOM_Auto6040A101441DB057FF940BC8817571510.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/1/GR/EOEZJ3SOVX1C9GMQQ7RPOM_Auto6.uasset'
+[2025.10.19-18.11.40:880][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/2/71/FXWXJQ06OMC9P9AXQL1V28_Auto6
+[2025.10.19-18.11.40:880][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/FXWXJQ06OMC9P9AXQL1V28_Auto6BD623744437F2ECD237EE197623B0769.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/2/71/FXWXJQ06OMC9P9AXQL1V28_Auto6.uasset'
+[2025.10.19-18.11.40:882][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/A/3J/VHAMN36NPKU7MCCC7FV7JN_Auto6
+[2025.10.19-18.11.40:882][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/VHAMN36NPKU7MCCC7FV7JN_Auto60A5E370B442A2F6D89F779970806F782.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/A/3J/VHAMN36NPKU7MCCC7FV7JN_Auto6.uasset'
+[2025.10.19-18.11.40:884][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/9/TV/6W5Z44RTIQYZWFCM8J2VBH_Auto6
+[2025.10.19-18.11.40:884][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/6W5Z44RTIQYZWFCM8J2VBH_Auto692EAF28C42FB9550D7AE2E9DE53D5560.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/9/TV/6W5Z44RTIQYZWFCM8J2VBH_Auto6.uasset'
+[2025.10.19-18.11.40:885][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/C/L6/N4MDKWZSPIRG1X0SYO42OH_Auto6
+[2025.10.19-18.11.40:885][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/N4MDKWZSPIRG1X0SYO42OH_Auto65D5C78E04CF1F854F15DCAABF09A7F45.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/C/L6/N4MDKWZSPIRG1X0SYO42OH_Auto6.uasset'
+[2025.10.19-18.11.40:887][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/3/0P/ZN1WMM5OEW4I7AFMKCFMU4_Auto6
+[2025.10.19-18.11.40:887][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/ZN1WMM5OEW4I7AFMKCFMU4_Auto616B602C840747EDF6E2C6FA21BE3BA31.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/3/0P/ZN1WMM5OEW4I7AFMKCFMU4_Auto6.uasset'
+[2025.10.19-18.11.40:889][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/PH/JTWQH2147DB8W01EZOINEA_Auto6
+[2025.10.19-18.11.40:889][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/JTWQH2147DB8W01EZOINEA_Auto6EC5733034210FC1B5033459F7AF909A4.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/PH/JTWQH2147DB8W01EZOINEA_Auto6.uasset'
+[2025.10.19-18.11.40:890][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/B/P4/3RM8Q21XEV07H6RD4AZTWY_Auto6
+[2025.10.19-18.11.40:890][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/3RM8Q21XEV07H6RD4AZTWY_Auto62987AF2A418714667DCBC99B325FA10E.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/B/P4/3RM8Q21XEV07H6RD4AZTWY_Auto6.uasset'
+[2025.10.19-18.11.40:892][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/E/YX/4Q7NU0GUBK1W2DEBCV2DIH_Auto6
+[2025.10.19-18.11.40:892][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/4Q7NU0GUBK1W2DEBCV2DIH_Auto6C11FFD094E5283EB5ABF3F8F9A5A713B.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/E/YX/4Q7NU0GUBK1W2DEBCV2DIH_Auto6.uasset'
+[2025.10.19-18.11.40:894][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/E/XH/NOEL2NWVMCT1VERYPIYW9H_Auto6
+[2025.10.19-18.11.40:894][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/NOEL2NWVMCT1VERYPIYW9H_Auto65B7689BC4A4842ED8EC8F19B415AA647.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/E/XH/NOEL2NWVMCT1VERYPIYW9H_Auto6.uasset'
+[2025.10.19-18.11.40:895][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/9/TL/04CPRJJHGBX2158CSNH6NU_Auto6
+[2025.10.19-18.11.40:895][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/04CPRJJHGBX2158CSNH6NU_Auto6E53F9EFB4EC560963C0A5FB5310F40AD.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/9/TL/04CPRJJHGBX2158CSNH6NU_Auto6.uasset'
+[2025.10.19-18.11.40:897][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/UV/VWMDEWEDKEUTRAJ9K2VY19_Auto6
+[2025.10.19-18.11.40:897][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/VWMDEWEDKEUTRAJ9K2VY19_Auto655FC82524E7968CF6A3C50ACFAF9AD3F.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/UV/VWMDEWEDKEUTRAJ9K2VY19_Auto6.uasset'
+[2025.10.19-18.11.40:898][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/8/7K/0CMFUZXSCJ0TOUQMEKHYJ7_Auto6
+[2025.10.19-18.11.40:898][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/0CMFUZXSCJ0TOUQMEKHYJ7_Auto685674ED249B9EDA9876DC1BFF720A01E.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/8/7K/0CMFUZXSCJ0TOUQMEKHYJ7_Auto6.uasset'
+[2025.10.19-18.11.40:900][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/0/1P/JXY3NDGZG8XK6Q8Y0HVECT_Auto6
+[2025.10.19-18.11.40:900][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/JXY3NDGZG8XK6Q8Y0HVECT_Auto6674A6BD94CAF2B145A2B03A2B781D006.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/0/1P/JXY3NDGZG8XK6Q8Y0HVECT_Auto6.uasset'
+[2025.10.19-18.11.40:902][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/0/Z6/DD984P6PE4GIC3YMSOT0ZR_Auto6
+[2025.10.19-18.11.40:902][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/DD984P6PE4GIC3YMSOT0ZR_Auto6DEDBBF114789DACC358D4EBB73DC6878.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/0/Z6/DD984P6PE4GIC3YMSOT0ZR_Auto6.uasset'
+[2025.10.19-18.11.40:943][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/N1/9WZXY5JMUNBMFKDLD2IXFC_Auto6
+[2025.10.19-18.11.40:943][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/9WZXY5JMUNBMFKDLD2IXFC_Auto6B5FB9C3F44029BF17D71C5A358636DCE.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/N1/9WZXY5JMUNBMFKDLD2IXFC_Auto6.uasset'
+[2025.10.19-18.11.40:945][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/8/LB/FJMSBXV8PR411ORMLDRON1_Auto6
+[2025.10.19-18.11.40:945][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/FJMSBXV8PR411ORMLDRON1_Auto6977297184B2C51FCB8CCDB9A8492131B.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/8/LB/FJMSBXV8PR411ORMLDRON1_Auto6.uasset'
+[2025.10.19-18.11.40:947][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/9/J3/DJ2SKMHN5XJHIN13GJOZPF_Auto6
+[2025.10.19-18.11.40:947][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/DJ2SKMHN5XJHIN13GJOZPF_Auto62B17C80F4177EE8E51E56B9F64AFCBC7.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/9/J3/DJ2SKMHN5XJHIN13GJOZPF_Auto6.uasset'
+[2025.10.19-18.11.40:948][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/5/ZV/Y772CMQPMAI2OM46GZQETS_Auto6
+[2025.10.19-18.11.40:948][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Y772CMQPMAI2OM46GZQETS_Auto6A1FB27A84F13E39E53C187AA34E27262.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/5/ZV/Y772CMQPMAI2OM46GZQETS_Auto6.uasset'
+[2025.10.19-18.11.40:950][701]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/1/89/2GCYZXE9P46UQ21MBLYOIM_Auto6
+[2025.10.19-18.11.40:950][701]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/2GCYZXE9P46UQ21MBLYOIM_Auto69679CBC74CCFB4E582257B8D05120FFA.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/1/89/2GCYZXE9P46UQ21MBLYOIM_Auto6.uasset'
+[2025.10.19-18.11.40:951][701]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DanielMonksProduction/Levels/MAP_DanielMonks' took 0.102
+[2025.10.19-18.11.40:951][701]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.102
+[2025.10.19-18.13.30:735][475]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12569.318359
+[2025.10.19-18.13.30:944][486]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.19-18.13.30:944][486]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12569.499023, Update Interval: 348.484131
+[2025.10.19-18.14.41:074][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.19-18.14.41:086][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.19-18.14.41:129][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/UN/6N3UPAYTSOY3748BCG4QER
+[2025.10.19-18.14.41:129][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/6N3UPAYTSOY3748BCG4QER47A3958241C8253D629658BB26E563CB.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/UN/6N3UPAYTSOY3748BCG4QER.uasset'
+[2025.10.19-18.14.41:132][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/3/OU/4WVIKRM883S1OKCODITVI6
+[2025.10.19-18.14.41:132][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/4WVIKRM883S1OKCODITVI6B4CE3258472A75BBA7F5FEB438740807.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/3/OU/4WVIKRM883S1OKCODITVI6.uasset'
+[2025.10.19-18.14.41:135][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/1/GR/EOEZJ3SOVX1C9GMQQ7RPOM
+[2025.10.19-18.14.41:136][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/EOEZJ3SOVX1C9GMQQ7RPOM6D6D066A4E4BCE71211DABA599A4D997.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/1/GR/EOEZJ3SOVX1C9GMQQ7RPOM.uasset'
+[2025.10.19-18.14.41:139][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/2/71/FXWXJQ06OMC9P9AXQL1V28
+[2025.10.19-18.14.41:139][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/FXWXJQ06OMC9P9AXQL1V28CB4BC8D644462A283C4C82B241FD743C.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/2/71/FXWXJQ06OMC9P9AXQL1V28.uasset'
+[2025.10.19-18.14.41:143][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/A/3J/VHAMN36NPKU7MCCC7FV7JN
+[2025.10.19-18.14.41:143][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/VHAMN36NPKU7MCCC7FV7JN81AA61A64FAB7E0A70A8D994EE406B4B.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/A/3J/VHAMN36NPKU7MCCC7FV7JN.uasset'
+[2025.10.19-18.14.41:148][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/9/TV/6W5Z44RTIQYZWFCM8J2VBH
+[2025.10.19-18.14.41:148][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/6W5Z44RTIQYZWFCM8J2VBH0E9367AE44126CD6B9FD33AD63DD8FFE.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/9/TV/6W5Z44RTIQYZWFCM8J2VBH.uasset'
+[2025.10.19-18.14.41:150][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/C/L6/N4MDKWZSPIRG1X0SYO42OH
+[2025.10.19-18.14.41:150][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/N4MDKWZSPIRG1X0SYO42OHBD04BB304261CEF986F283AC4AE7989E.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/C/L6/N4MDKWZSPIRG1X0SYO42OH.uasset'
+[2025.10.19-18.14.41:152][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/3/0P/ZN1WMM5OEW4I7AFMKCFMU4
+[2025.10.19-18.14.41:152][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/ZN1WMM5OEW4I7AFMKCFMU4F1C8B10148B30695ABE3D69CC154CC6F.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/3/0P/ZN1WMM5OEW4I7AFMKCFMU4.uasset'
+[2025.10.19-18.14.41:155][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/PH/JTWQH2147DB8W01EZOINEA
+[2025.10.19-18.14.41:155][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/JTWQH2147DB8W01EZOINEAABB131C5421A9970455CB880EC5ADE5B.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/PH/JTWQH2147DB8W01EZOINEA.uasset'
+[2025.10.19-18.14.41:157][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/B/P4/3RM8Q21XEV07H6RD4AZTWY
+[2025.10.19-18.14.41:157][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/3RM8Q21XEV07H6RD4AZTWYD0C8CBB341F4D05AE2C8929743A4222C.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/B/P4/3RM8Q21XEV07H6RD4AZTWY.uasset'
+[2025.10.19-18.14.41:160][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/E/YX/4Q7NU0GUBK1W2DEBCV2DIH
+[2025.10.19-18.14.41:160][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/4Q7NU0GUBK1W2DEBCV2DIH530FCDEB45B052F63E87D7ADAA9B3DF5.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/E/YX/4Q7NU0GUBK1W2DEBCV2DIH.uasset'
+[2025.10.19-18.14.41:162][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/E/XH/NOEL2NWVMCT1VERYPIYW9H
+[2025.10.19-18.14.41:162][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/NOEL2NWVMCT1VERYPIYW9H152BBCEE447FBB665637CBAA7241F1BF.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/E/XH/NOEL2NWVMCT1VERYPIYW9H.uasset'
+[2025.10.19-18.14.41:165][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/9/TL/04CPRJJHGBX2158CSNH6NU
+[2025.10.19-18.14.41:165][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/04CPRJJHGBX2158CSNH6NUF349179447A689636CF6F28BC768E1BB.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/9/TL/04CPRJJHGBX2158CSNH6NU.uasset'
+[2025.10.19-18.14.41:167][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/UV/VWMDEWEDKEUTRAJ9K2VY19
+[2025.10.19-18.14.41:167][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/VWMDEWEDKEUTRAJ9K2VY19DE1D5EE84671CA6B4023C0B9BA97F212.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/UV/VWMDEWEDKEUTRAJ9K2VY19.uasset'
+[2025.10.19-18.14.41:169][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/8/7K/0CMFUZXSCJ0TOUQMEKHYJ7
+[2025.10.19-18.14.41:170][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/0CMFUZXSCJ0TOUQMEKHYJ7D0AB3DC54427DDA96FDE59908888874B.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/8/7K/0CMFUZXSCJ0TOUQMEKHYJ7.uasset'
+[2025.10.19-18.14.41:172][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/0/1P/JXY3NDGZG8XK6Q8Y0HVECT
+[2025.10.19-18.14.41:172][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/JXY3NDGZG8XK6Q8Y0HVECTD76F5B7F4719561ACC74A9BDDCFC6950.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/0/1P/JXY3NDGZG8XK6Q8Y0HVECT.uasset'
+[2025.10.19-18.14.41:174][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/0/Z6/DD984P6PE4GIC3YMSOT0ZR
+[2025.10.19-18.14.41:174][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/DD984P6PE4GIC3YMSOT0ZR69661D104CA69448AA278B9456F2B32E.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/0/Z6/DD984P6PE4GIC3YMSOT0ZR.uasset'
+[2025.10.19-18.14.41:176][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/N1/9WZXY5JMUNBMFKDLD2IXFC
+[2025.10.19-18.14.41:176][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/9WZXY5JMUNBMFKDLD2IXFC3BB9BE844FBC1219140855B03AEB347D.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/N1/9WZXY5JMUNBMFKDLD2IXFC.uasset'
+[2025.10.19-18.14.41:178][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/8/LB/FJMSBXV8PR411ORMLDRON1
+[2025.10.19-18.14.41:179][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/FJMSBXV8PR411ORMLDRON1C89D01C7401B04184A69C19C6561162A.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/8/LB/FJMSBXV8PR411ORMLDRON1.uasset'
+[2025.10.19-18.14.41:181][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/9/J3/DJ2SKMHN5XJHIN13GJOZPF
+[2025.10.19-18.14.41:181][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/DJ2SKMHN5XJHIN13GJOZPF1CB523EB451A68EBD1F63984CA2DF573.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/9/J3/DJ2SKMHN5XJHIN13GJOZPF.uasset'
+[2025.10.19-18.14.41:183][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/5/ZV/Y772CMQPMAI2OM46GZQETS
+[2025.10.19-18.14.41:183][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Y772CMQPMAI2OM46GZQETS4AC33C2744F5FB0D99BA66A0B369ABD9.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/5/ZV/Y772CMQPMAI2OM46GZQETS.uasset'
+[2025.10.19-18.14.41:185][324]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/1/89/2GCYZXE9P46UQ21MBLYOIM
+[2025.10.19-18.14.41:185][324]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/2GCYZXE9P46UQ21MBLYOIMDDAC87CB4F9324749E903ABC3180AB95.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/1/89/2GCYZXE9P46UQ21MBLYOIM.uasset'
+[2025.10.19-18.14.41:224][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.322 ms (total: 2.21 sec)
+[2025.10.19-18.14.41:285][324]LogContentValidation: Display: Starting to validate 22 assets
+[2025.10.19-18.14.41:285][324]LogContentValidation: Enabled validators:
+[2025.10.19-18.14.41:285][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.19-18.14.41:285][324]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.19-18.14.41:285][324]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.19-18.14.41:285][324]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.19-18.14.41:285][324]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.19-18.14.41:285][324]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.19-18.14.41:286][324]AssetCheck: /Game/DanielMonksProduction/Levels/MAP_DanielMonks Validating asset
+[2025.10.19-18.14.41:317][324]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.19-18.15.00:462][829]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.19-18.15.00:470][829]LogContentBundle: [MAP_DanielMonks(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.19-18.15.00:470][829]LogWorldPartition: Display: GenerateStreaming for 'MAP_DanielMonks' started...
+[2025.10.19-18.15.00:470][829]LogWorldPartition: Display: GenerateStreaming for 'MAP_DanielMonks' took 708 us (total: 51.698 ms)
+[2025.10.19-18.15.00:471][829]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.19-18.15.00:473][829]LogPlayLevel: Display: Creating online subsystem for client :Context_77
+[2025.10.19-18.15.00:476][829]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2025.10.19-18.15.00:485][830]LogPlayLevel: Creating play world package: /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks
+[2025.10.19-18.15.00:490][830]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.19-18.15.00:491][830]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.003 ms (total: 21.835 ms)
+[2025.10.19-18.15.00:491][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006133s)
+[2025.10.19-18.15.00:491][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DanielMonksProduction/Levels/MAP_DanielMonks.MAP_DanielMonks to /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks (0.006172s)
+[2025.10.19-18.15.00:508][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.19-18.15.00:513][830]LogChaosDD: Creating Chaos Debug Draw Scene for world MAP_DanielMonks
+[2025.10.19-18.15.00:515][830]LogWorldPartition: ULevel::OnLevelLoaded(MAP_DanielMonks)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.19-18.15.00:515][830]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.19-18.15.00:515][830]LogWorldPartition: UWorldPartition::Initialize : World = /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.19-18.15.00:515][830]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.19-18.15.00:517][830]LogWorldPartition: Display: WorldPartition initialize took 1.282 ms (total: 127.896 ms)
+[2025.10.19-18.15.00:517][830]LogPlayLevel: PIE: World Init took: (0.004010s)
+[2025.10.19-18.15.00:517][830]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2025.10.19-18.15.00:518][830]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.19-18.15.00:518][830]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.19-18.15.00:518][830]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.19-18.15.00:518][830]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.19-18.15.00:518][830]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.19-18.15.00:518][830]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.19-18.15.00:518][830]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.19-18.15.00:518][830]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.19-18.15.00:518][830]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.19-18.15.00:518][830]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.19-18.15.00:518][830]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.19-18.15.00:520][830]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.19-18.15.00:541][830]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2025.10.19-18.15.00:543][830]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.19-18.15.00:543][830]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.19-18.15.00:543][830]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.19-18.15.00:543][830]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2025.10.19-18.15.00:543][830]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2025.10.19-18.15.00:545][830]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2025.10.19-18.15.00:545][830]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2025.10.19-18.15.00:545][830]LogInit: FAudioDevice initialized with ID 29.
+[2025.10.19-18.15.00:545][830]LogAudio: Display: Audio Device (ID: 29) registered with world 'MAP_DanielMonks'.
+[2025.10.19-18.15.00:545][830]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2025.10.19-18.15.00:550][830]LogLoad: Game class is 'BP_FirstPersonShooterGameMode_C'
+[2025.10.19-18.15.00:552][830]LogWorld: Bringing World /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks up for play (max tick rate 0) at 2025.10.19-19.15.00
+[2025.10.19-18.15.00:552][830]LogWorld: Bringing up level for play took: 0.002318
+[2025.10.19-18.15.00:560][830]LogBlueprintUserMessages: [BP_FirstPersonShooterCharacter_C_0] Hello
+[2025.10.19-18.15.00:560][830]PIE: Server logged in
+[2025.10.19-18.15.00:563][830]PIE: Play in editor total start time 0.094 seconds.
+[2025.10.19-18.15.00:619][831]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.19-18.16.11:243][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.19-18.16.11:243][ 59]LogWorld: BeginTearingDown for /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks
+[2025.10.19-18.16.11:243][ 59]LogWorld: UWorld::CleanupWorld for MAP_DanielMonks, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-18.16.11:244][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.16.11:244][ 59]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks
+[2025.10.19-18.16.11:245][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.19-18.16.11:249][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.16.11:264][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.19-18.16.11:264][ 59]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2025.10.19-18.16.11:265][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=4
+[2025.10.19-18.16.11:272][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29, StreamState=2
+[2025.10.19-18.16.11:280][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.10.19-18.16.11:317][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2025.10.19-18.16.12:076][124]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.19-18.16.12:082][124]LogContentBundle: [MAP_DanielMonks(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.19-18.16.12:082][124]LogWorldPartition: Display: GenerateStreaming for 'MAP_DanielMonks' started...
+[2025.10.19-18.16.12:083][124]LogWorldPartition: Display: GenerateStreaming for 'MAP_DanielMonks' took 954 us (total: 52.653 ms)
+[2025.10.19-18.16.12:083][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.19-18.16.12:086][124]LogPlayLevel: Display: Creating online subsystem for client :Context_78
+[2025.10.19-18.16.12:088][124]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2025.10.19-18.16.12:099][125]LogPlayLevel: Creating play world package: /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks
+[2025.10.19-18.16.12:103][125]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.19-18.16.12:104][125]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 951 us (total: 22.787 ms)
+[2025.10.19-18.16.12:104][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005579s)
+[2025.10.19-18.16.12:104][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DanielMonksProduction/Levels/MAP_DanielMonks.MAP_DanielMonks to /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks (0.005618s)
+[2025.10.19-18.16.12:122][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.19-18.16.12:125][125]LogChaosDD: Creating Chaos Debug Draw Scene for world MAP_DanielMonks
+[2025.10.19-18.16.12:126][125]LogWorldPartition: ULevel::OnLevelLoaded(MAP_DanielMonks)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.19-18.16.12:126][125]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.19-18.16.12:126][125]LogWorldPartition: UWorldPartition::Initialize : World = /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.19-18.16.12:126][125]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.19-18.16.12:128][125]LogWorldPartition: Display: WorldPartition initialize took 1.534 ms (total: 129.431 ms)
+[2025.10.19-18.16.12:128][125]LogPlayLevel: PIE: World Init took: (0.003271s)
+[2025.10.19-18.16.12:129][125]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2025.10.19-18.16.12:129][125]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.19-18.16.12:129][125]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.19-18.16.12:129][125]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.19-18.16.12:129][125]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.19-18.16.12:129][125]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.19-18.16.12:129][125]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.19-18.16.12:129][125]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.19-18.16.12:129][125]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.19-18.16.12:129][125]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.19-18.16.12:129][125]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.19-18.16.12:129][125]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.19-18.16.12:131][125]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.19-18.16.12:152][125]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2025.10.19-18.16.12:152][125]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.19-18.16.12:152][125]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.19-18.16.12:153][125]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.19-18.16.12:153][125]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2025.10.19-18.16.12:153][125]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2025.10.19-18.16.12:155][125]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2025.10.19-18.16.12:155][125]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2025.10.19-18.16.12:155][125]LogInit: FAudioDevice initialized with ID 30.
+[2025.10.19-18.16.12:155][125]LogAudio: Display: Audio Device (ID: 30) registered with world 'MAP_DanielMonks'.
+[2025.10.19-18.16.12:155][125]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2025.10.19-18.16.12:159][125]LogLoad: Game class is 'BP_FirstPersonShooterGameMode_C'
+[2025.10.19-18.16.12:162][125]LogWorld: Bringing World /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks up for play (max tick rate 0) at 2025.10.19-19.16.12
+[2025.10.19-18.16.12:162][125]LogWorld: Bringing up level for play took: 0.002261
+[2025.10.19-18.16.12:169][125]LogBlueprintUserMessages: [BP_FirstPersonShooterCharacter_C_0] Hello
+[2025.10.19-18.16.12:170][125]PIE: Server logged in
+[2025.10.19-18.16.12:173][125]PIE: Play in editor total start time 0.091 seconds.
+[2025.10.19-18.16.12:228][126]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.19-18.16.38:052][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.19-18.16.38:052][980]LogWorld: BeginTearingDown for /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks
+[2025.10.19-18.16.38:052][980]LogWorld: UWorld::CleanupWorld for MAP_DanielMonks, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-18.16.38:053][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.16.38:053][980]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks
+[2025.10.19-18.16.38:054][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.19-18.16.38:057][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.16.38:073][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.19-18.16.38:073][980]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2025.10.19-18.16.38:073][980]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=4
+[2025.10.19-18.16.38:075][980]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30, StreamState=2
+[2025.10.19-18.16.38:085][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.19-18.16.38:122][983]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2025.10.19-18.16.53:442][183]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.19-18.16.53:448][183]LogContentBundle: [MAP_DanielMonks(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.19-18.16.53:448][183]LogWorldPartition: Display: GenerateStreaming for 'MAP_DanielMonks' started...
+[2025.10.19-18.16.53:449][183]LogWorldPartition: Display: GenerateStreaming for 'MAP_DanielMonks' took 796 us (total: 53.449 ms)
+[2025.10.19-18.16.53:449][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.19-18.16.53:450][183]LogPlayLevel: Display: Creating online subsystem for client :Context_79
+[2025.10.19-18.16.53:453][183]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2025.10.19-18.16.53:464][184]LogPlayLevel: Creating play world package: /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks
+[2025.10.19-18.16.53:471][184]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.19-18.16.53:472][184]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.301 ms (total: 24.088 ms)
+[2025.10.19-18.16.53:472][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008606s)
+[2025.10.19-18.16.53:472][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DanielMonksProduction/Levels/MAP_DanielMonks.MAP_DanielMonks to /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks (0.008651s)
+[2025.10.19-18.16.53:489][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.10.19-18.16.53:491][184]LogChaosDD: Creating Chaos Debug Draw Scene for world MAP_DanielMonks
+[2025.10.19-18.16.53:493][184]LogWorldPartition: ULevel::OnLevelLoaded(MAP_DanielMonks)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.19-18.16.53:493][184]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.19-18.16.53:493][184]LogWorldPartition: UWorldPartition::Initialize : World = /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.19-18.16.53:493][184]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.19-18.16.53:494][184]LogWorldPartition: Display: WorldPartition initialize took 1.273 ms (total: 130.704 ms)
+[2025.10.19-18.16.53:494][184]LogPlayLevel: PIE: World Init took: (0.003169s)
+[2025.10.19-18.16.53:495][184]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2025.10.19-18.16.53:496][184]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.19-18.16.53:496][184]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.19-18.16.53:496][184]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.19-18.16.53:496][184]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.19-18.16.53:496][184]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.19-18.16.53:496][184]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.19-18.16.53:496][184]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.19-18.16.53:496][184]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.19-18.16.53:496][184]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.19-18.16.53:496][184]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.19-18.16.53:496][184]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.19-18.16.53:498][184]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.19-18.16.53:519][184]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2025.10.19-18.16.53:519][184]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.19-18.16.53:519][184]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.19-18.16.53:519][184]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.19-18.16.53:520][184]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2025.10.19-18.16.53:520][184]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2025.10.19-18.16.53:522][184]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2025.10.19-18.16.53:522][184]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2025.10.19-18.16.53:522][184]LogInit: FAudioDevice initialized with ID 31.
+[2025.10.19-18.16.53:522][184]LogAudio: Display: Audio Device (ID: 31) registered with world 'MAP_DanielMonks'.
+[2025.10.19-18.16.53:522][184]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2025.10.19-18.16.53:527][184]LogLoad: Game class is 'BP_FirstPersonShooterGameMode_C'
+[2025.10.19-18.16.53:529][184]LogWorld: Bringing World /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks up for play (max tick rate 0) at 2025.10.19-19.16.53
+[2025.10.19-18.16.53:529][184]LogWorld: Bringing up level for play took: 0.002160
+[2025.10.19-18.16.53:535][184]LogBlueprintUserMessages: [BP_FirstPersonShooterCharacter_C_0] Hello
+[2025.10.19-18.16.53:536][184]PIE: Server logged in
+[2025.10.19-18.16.53:539][184]PIE: Play in editor total start time 0.091 seconds.
+[2025.10.19-18.16.53:595][185]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.19-18.17.06:312][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.19-18.17.06:312][ 94]LogWorld: BeginTearingDown for /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks
+[2025.10.19-18.17.06:312][ 94]LogWorld: UWorld::CleanupWorld for MAP_DanielMonks, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-18.17.06:313][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.17.06:313][ 94]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks
+[2025.10.19-18.17.06:314][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.19-18.17.06:318][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.17.06:335][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.19-18.17.06:335][ 94]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2025.10.19-18.17.06:335][ 94]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=4
+[2025.10.19-18.17.06:337][ 94]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31, StreamState=2
+[2025.10.19-18.17.06:343][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.19-18.17.06:381][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2025.10.19-18.17.42:111][842]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.19-18.17.42:117][842]LogContentBundle: [MAP_DanielMonks(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.19-18.17.42:117][842]LogWorldPartition: Display: GenerateStreaming for 'MAP_DanielMonks' started...
+[2025.10.19-18.17.42:118][842]LogWorldPartition: Display: GenerateStreaming for 'MAP_DanielMonks' took 774 us (total: 54.224 ms)
+[2025.10.19-18.17.42:118][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.19-18.17.42:121][842]LogPlayLevel: Display: Creating online subsystem for client :Context_80
+[2025.10.19-18.17.42:123][842]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2025.10.19-18.17.42:132][843]LogPlayLevel: Creating play world package: /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks
+[2025.10.19-18.17.42:137][843]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.19-18.17.42:138][843]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.009 ms (total: 25.097 ms)
+[2025.10.19-18.17.42:138][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006024s)
+[2025.10.19-18.17.42:139][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DanielMonksProduction/Levels/MAP_DanielMonks.MAP_DanielMonks to /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks (0.006061s)
+[2025.10.19-18.17.42:157][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.19-18.17.42:159][843]LogChaosDD: Creating Chaos Debug Draw Scene for world MAP_DanielMonks
+[2025.10.19-18.17.42:161][843]LogWorldPartition: ULevel::OnLevelLoaded(MAP_DanielMonks)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.19-18.17.42:161][843]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.19-18.17.42:161][843]LogWorldPartition: UWorldPartition::Initialize : World = /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.19-18.17.42:161][843]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.19-18.17.42:162][843]LogWorldPartition: Display: WorldPartition initialize took 1.276 ms (total: 131.981 ms)
+[2025.10.19-18.17.42:162][843]LogPlayLevel: PIE: World Init took: (0.002963s)
+[2025.10.19-18.17.42:163][843]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2025.10.19-18.17.42:163][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.19-18.17.42:163][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.19-18.17.42:163][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.19-18.17.42:163][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.19-18.17.42:163][843]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.19-18.17.42:163][843]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.19-18.17.42:163][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.19-18.17.42:163][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.19-18.17.42:163][843]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.19-18.17.42:163][843]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.19-18.17.42:163][843]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.19-18.17.42:165][843]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.19-18.17.42:186][843]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2025.10.19-18.17.42:187][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.19-18.17.42:187][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.19-18.17.42:187][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.19-18.17.42:187][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2025.10.19-18.17.42:187][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2025.10.19-18.17.42:189][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2025.10.19-18.17.42:189][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2025.10.19-18.17.42:189][843]LogInit: FAudioDevice initialized with ID 32.
+[2025.10.19-18.17.42:189][843]LogAudio: Display: Audio Device (ID: 32) registered with world 'MAP_DanielMonks'.
+[2025.10.19-18.17.42:189][843]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2025.10.19-18.17.42:193][843]LogLoad: Game class is 'BP_FirstPersonShooterGameMode_C'
+[2025.10.19-18.17.42:196][843]LogWorld: Bringing World /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks up for play (max tick rate 0) at 2025.10.19-19.17.42
+[2025.10.19-18.17.42:196][843]LogWorld: Bringing up level for play took: 0.002476
+[2025.10.19-18.17.42:202][843]LogBlueprintUserMessages: [BP_FirstPersonShooterCharacter_C_0] Hello
+[2025.10.19-18.17.42:203][843]PIE: Server logged in
+[2025.10.19-18.17.42:206][843]PIE: Play in editor total start time 0.089 seconds.
+[2025.10.19-18.17.42:261][844]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.19-18.18.43:261][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.19-18.18.43:261][394]LogWorld: BeginTearingDown for /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks
+[2025.10.19-18.18.43:261][394]LogWorld: UWorld::CleanupWorld for MAP_DanielMonks, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-18.18.43:262][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.18.43:262][394]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks
+[2025.10.19-18.18.43:263][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.19-18.18.43:266][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.18.43:282][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.19-18.18.43:283][394]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2025.10.19-18.18.43:283][394]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=4
+[2025.10.19-18.18.43:285][394]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32, StreamState=2
+[2025.10.19-18.18.43:292][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.10.19-18.18.43:335][397]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2025.10.19-18.19.56:497][378]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12955.079102
+[2025.10.19-18.19.57:497][381]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.19-18.19.57:497][381]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12955.746094, Update Interval: 333.317047
+[2025.10.19-18.24.32:084][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.19-18.24.32:089][ 90]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/E/UN/9H13AHW32Q90JTHXXB9TV6_Auto7
+[2025.10.19-18.24.32:089][ 90]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/9H13AHW32Q90JTHXXB9TV6_Auto7737933CB45A491DCD557BF9F383285EF.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/E/UN/9H13AHW32Q90JTHXXB9TV6_Auto7.uasset'
+[2025.10.19-18.24.32:092][ 90]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/2/WL/SZ7AFI28LG36CX3YA7UGLS_Auto7
+[2025.10.19-18.24.32:092][ 90]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/SZ7AFI28LG36CX3YA7UGLS_Auto785F69F4F423A09BF084CA399482CE0C6.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/2/WL/SZ7AFI28LG36CX3YA7UGLS_Auto7.uasset'
+[2025.10.19-18.24.32:094][ 90]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/4K/OCDX9GNAYSRT402J75PUVP_Auto7
+[2025.10.19-18.24.32:094][ 90]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/OCDX9GNAYSRT402J75PUVP_Auto7D7A57AC64446F5DC45F6048E891FD926.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/4K/OCDX9GNAYSRT402J75PUVP_Auto7.uasset'
+[2025.10.19-18.24.32:095][ 90]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DanielMonksProduction/Levels/MAP_DanielMonks' took 0.027
+[2025.10.19-18.24.32:095][ 90]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2025.10.19-18.24.38:046][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.19-18.24.45:149][341]LogSlate: Window 'Save Content' being destroyed
+[2025.10.19-18.24.49:214][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.10.19-18.24.49:222][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.19-18.24.49:255][731]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/E/UN/9H13AHW32Q90JTHXXB9TV6
+[2025.10.19-18.24.49:255][731]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/9H13AHW32Q90JTHXXB9TV6F59A5FEC42AD92803E949DB90F3A2A41.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/E/UN/9H13AHW32Q90JTHXXB9TV6.uasset'
+[2025.10.19-18.24.49:259][731]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/2/WL/SZ7AFI28LG36CX3YA7UGLS
+[2025.10.19-18.24.49:259][731]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/SZ7AFI28LG36CX3YA7UGLS0E0FC472474C94C298B53791F9243F42.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/2/WL/SZ7AFI28LG36CX3YA7UGLS.uasset'
+[2025.10.19-18.24.49:265][731]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/4K/OCDX9GNAYSRT402J75PUVP
+[2025.10.19-18.24.49:265][731]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/OCDX9GNAYSRT402J75PUVPB71182194049F88BD4D8559CE2B23134.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/DanielMonksProduction/Levels/MAP_DanielMonks/D/4K/OCDX9GNAYSRT402J75PUVP.uasset'
+[2025.10.19-18.24.49:273][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.178 ms (total: 2.26 sec)
+[2025.10.19-18.24.49:332][731]LogContentValidation: Display: Starting to validate 3 assets
+[2025.10.19-18.24.49:332][731]LogContentValidation: Enabled validators:
+[2025.10.19-18.24.49:332][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.19-18.24.49:332][731]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.19-18.24.49:332][731]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.19-18.24.49:332][731]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.19-18.24.49:332][731]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.19-18.24.49:332][731]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.19-18.24.49:332][731]AssetCheck: /Game/DanielMonksProduction/Levels/MAP_DanielMonks Validating asset
+[2025.10.19-18.24.50:417][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.10.19-18.24.50:464][809]LogStall: Shutdown...
+[2025.10.19-18.24.50:464][809]LogStall: Shutdown complete.
+[2025.10.19-18.24.50:511][809]LogSlate: Window 'DanielMonksPulseIP - Unreal Editor' being destroyed
+[2025.10.19-18.24.59:127][809]Cmd: QUIT_EDITOR
+[2025.10.19-18.24.59:135][810]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.19-18.24.59:212][810]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.19-18.24.59:228][810]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.19-18.24.59:228][810]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.19-18.24.59:310][810]LogWorld: UWorld::CleanupWorld for MAP_DanielMonks, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-18.24.59:332][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.24.59:334][810]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/DanielMonksProduction/Levels/MAP_DanielMonks.MAP_DanielMonks
+[2025.10.19-18.24.59:541][810]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.19-18.24.59:549][810]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.19-18.24.59:582][810]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.19-18.24.59:781][810]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-18.24.59:781][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.24.59:788][810]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-18.24.59:788][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.24.59:791][810]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-18.24.59:803][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.24.59:804][810]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-18.24.59:804][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-18.24.59:827][810]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.19-18.24.59:830][810]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.19-18.24.59:848][810]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.19-18.25.01:020][810]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.19-18.25.01:020][810]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.19-18.25.01:020][810]LogAudio: Display: Audio Device unregistered from world 'MAP_DanielMonks'.
+[2025.10.19-18.25.01:022][810]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.19-18.25.01:029][810]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.19-18.25.01:043][810]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.19-18.25.01:117][810]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.19-18.25.01:118][810]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.19-18.25.01:125][810]LogWindowsTextInputMethodSystem: Activated input method: English (Ireland) - (Keyboard).
+[2025.10.19-18.25.01:143][810]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.19-18.25.01:150][810]LogExit: Preparing to exit.
+[2025.10.19-18.25.01:865][810]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2025.10.19-18.25.02:536][810]LogEditorDataStorage: Deinitializing
+[2025.10.19-18.25.03:689][810]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.19-18.25.04:146][810]LogExit: Editor shut down
+[2025.10.19-18.25.04:223][810]LogExit: Transaction tracking system shut down
+[2025.10.19-18.25.06:427][810]LogExit: Object subsystem successfully closed.
+[2025.10.19-18.25.06:580][810]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.19-18.25.08:085][810]LogMemoryProfiler: Shutdown
+[2025.10.19-18.25.08:087][810]LogNetworkingProfiler: Shutdown
+[2025.10.19-18.25.08:087][810]LoadingProfiler: Shutdown
+[2025.10.19-18.25.08:087][810]LogTimingProfiler: Shutdown
+[2025.10.19-18.25.08:103][810]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.19-18.25.08:104][810]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.10.19-18.25.09:949][810]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.19-18.25.09:957][810]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.19-18.25.09:962][810]RenderDocPlugin: plugin has been unloaded.
+[2025.10.19-18.25.10:009][810]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.19-18.25.10:009][810]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B10FD9FC9-4B7B-AEF2-AF13-CDABBCD64473%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=7b2a3d9949db6ae91072d895580d508e%7Cb77801829ecc494fae11aaea9ce592bf%7Cd987f69f-dd59-4bd3-a251-980700e535c4&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.19-18.25.11:173][810]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.19-18.25.11:256][810]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.19-18.25.11:257][810]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.19-18.25.11:259][810]LogPakFile: Destroying PakPlatformFile
+[2025.10.19-18.25.13:088][810]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.19-18.25.13:160][810]LogExit: Exiting.
+[2025.10.19-18.25.13:226][810]Log file closed, 10/19/25 19:25:13
