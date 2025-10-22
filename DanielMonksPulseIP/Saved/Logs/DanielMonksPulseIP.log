@@ -1170,3 +1170,516 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.22-09.13.20:341][ 36]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8.001247, Update Interval: 340.846588
 [2025.10.22-09.13.20:718][ 71]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
 [2025.10.22-09.13.20:836][ 72]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.10.22-09.15.05:980][604]LogDerivedDataCache: C:/Users/manni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.22-09.16.46:598][295]LogSlate: Took 0.000628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.22-09.16.50:911][583]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Textures/T_GridChecker_A.uasset to ../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset
+[2025.10.22-09.16.50:913][583]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MF_ProcGrid.uasset to ../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset
+[2025.10.22-09.16.50:916][583]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/MI_PrototypeGrid_Gray.uasset to ../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset
+[2025.10.22-09.16.50:922][583]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Materials/M_PrototypeGrid.uasset to ../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset
+[2025.10.22-09.16.50:927][583]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_Cube.uasset to ../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/LevelPrototyping/Meshes/SM_Cube.uasset
+[2025.10.22-09.16.50:930][583]LogFeaturePack: Warning: Failed to copy ../../../Templates/TemplateResources/High/LevelPrototyping/Content/Meshes/SM_Cylinder.uasset to ../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset
+[2025.10.22-09.16.51:072][583]LogStreaming: Display: FlushAsyncLoading(400): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.22-09.16.51:226][583]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/School/UE_5.6/FeaturePacks/TP_FirstPersonBP.upack)
+[2025.10.22-09.16.51:232][583]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2025.10.22-09.16.51:238][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Lvl_FirstPerson.ini" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/FirstPerson/Lvl_FirstPerson.ini"
+[2025.10.22-09.16.51:240][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Lvl_FirstPerson.umap" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/FirstPerson/Lvl_FirstPerson.umap"
+[2025.10.22-09.16.51:242][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/MI_FirstPersonColorway.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/FirstPerson/MI_FirstPersonColorway.uasset"
+[2025.10.22-09.16.51:245][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Anims/ABP_FP_Copy.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/FirstPerson/Anims/ABP_FP_Copy.uasset"
+[2025.10.22-09.16.51:248][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Anims/CtrlRig_FPWarp.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/FirstPerson/Anims/CtrlRig_FPWarp.uasset"
+[2025.10.22-09.16.51:249][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Blueprints/BP_FirstPersonCameraManager.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/FirstPerson/Blueprints/BP_FirstPersonCameraManager.uasset"
+[2025.10.22-09.16.51:251][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+[2025.10.22-09.16.51:253][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset"
+[2025.10.22-09.16.51:254][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset"
+[2025.10.22-09.16.51:257][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/44/E30ITTGIQYU50RQY5Y9XCY.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/44/E30ITTGIQYU50RQY5Y9XCY.uasset"
+[2025.10.22-09.16.51:258][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/56/I0F38RE5S8MZ8PNQ5GDDSS.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/56/I0F38RE5S8MZ8PNQ5GDDSS.uasset"
+[2025.10.22-09.16.51:260][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/9C/F5Z2JNQMT747Y7QES5KOP7.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/9C/F5Z2JNQMT747Y7QES5KOP7.uasset"
+[2025.10.22-09.16.51:262][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/ER/GJUIXEEO8HUV9WZCSZR9GH.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/ER/GJUIXEEO8HUV9WZCSZR9GH.uasset"
+[2025.10.22-09.16.51:263][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/QF/0MZRSMWGNM91UYLLVJ3D8E.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/QF/0MZRSMWGNM91UYLLVJ3D8E.uasset"
+[2025.10.22-09.16.51:265][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/GZ/TTBKQTM7H2HDLWB3T16ZLY.uasset"
+[2025.10.22-09.16.51:266][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/TG/2MDU2GF02TMAKTSII7ZI7V.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/TG/2MDU2GF02TMAKTSII7ZI7V.uasset"
+[2025.10.22-09.16.51:269][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/U9/AHG6736Q2Y3SGC1JQONLFJ.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/U9/AHG6736Q2Y3SGC1JQONLFJ.uasset"
+[2025.10.22-09.16.51:271][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/2T/XLTJQ7V46UNMQF707MQDQK.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/2T/XLTJQ7V46UNMQF707MQDQK.uasset"
+[2025.10.22-09.16.51:272][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/CC/0JTUNI8VQLSXUN7CSUXHGJ.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/CC/0JTUNI8VQLSXUN7CSUXHGJ.uasset"
+[2025.10.22-09.16.51:275][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/IH/6AC5KKMX2JQTMBRMPI2QXX.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/IH/6AC5KKMX2JQTMBRMPI2QXX.uasset"
+[2025.10.22-09.16.51:276][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/0I/0PXPLZ76IWADZO9D6J4VWA.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/0I/0PXPLZ76IWADZO9D6J4VWA.uasset"
+[2025.10.22-09.16.51:278][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/TT/AN7EDCE3WNBXY7C6MLPGQH.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/TT/AN7EDCE3WNBXY7C6MLPGQH.uasset"
+[2025.10.22-09.16.51:280][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/WL/M7MJFQ0T76JWU6F1Z7YH8J.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/WL/M7MJFQ0T76JWU6F1Z7YH8J.uasset"
+[2025.10.22-09.16.51:281][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/GO/765U52T3ZSF8D2MPGLVRR0.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/GO/765U52T3ZSF8D2MPGLVRR0.uasset"
+[2025.10.22-09.16.51:283][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/1X/SN5R6LIXKDO3W51X1TVUTZ.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/1X/SN5R6LIXKDO3W51X1TVUTZ.uasset"
+[2025.10.22-09.16.51:285][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset"
+[2025.10.22-09.16.51:287][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/OC/XS0DUOELE7HJY3F9XZSBNV.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/OC/XS0DUOELE7HJY3F9XZSBNV.uasset"
+[2025.10.22-09.16.51:289][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/NN/UPER9K07U6B78EE80PY058.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/NN/UPER9K07U6B78EE80PY058.uasset"
+[2025.10.22-09.16.51:291][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/SP/2T0RTK13XAOOIQD0QTXDQ9.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/SP/2T0RTK13XAOOIQD0QTXDQ9.uasset"
+[2025.10.22-09.16.51:293][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/P7/9DOH3BZKA2A8C7ZTDWILWC.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/P7/9DOH3BZKA2A8C7ZTDWILWC.uasset"
+[2025.10.22-09.16.51:295][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/8B/S2VB6OCHYGRYWAD0QGDM9H.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/8B/S2VB6OCHYGRYWAD0QGDM9H.uasset"
+[2025.10.22-09.16.51:296][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/BN/PJBVMDVV9BICN8MLKJ849X.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/BN/PJBVMDVV9BICN8MLKJ849X.uasset"
+[2025.10.22-09.16.51:299][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/3X/YJ94LSV2G9NAIYZIK96QLE.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/3X/YJ94LSV2G9NAIYZIK96QLE.uasset"
+[2025.10.22-09.16.51:300][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/6J/NUEDVP0K274K8FKJ6Y0WEX.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/6J/NUEDVP0K274K8FKJ6Y0WEX.uasset"
+[2025.10.22-09.16.51:302][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/IJ/E7WQWO4MJ84GWAX8H4UR84.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/IJ/E7WQWO4MJ84GWAX8H4UR84.uasset"
+[2025.10.22-09.16.51:303][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/8V/Q896X99E5DMTT521YEXM9A.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/8V/Q896X99E5DMTT521YEXM9A.uasset"
+[2025.10.22-09.16.51:305][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/N3/FQV2FW1I8D4Z06TF38UTCR.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/N3/FQV2FW1I8D4Z06TF38UTCR.uasset"
+[2025.10.22-09.16.51:307][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/QB/9YXJRQGLS33G0BEH37USBX.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/QB/9YXJRQGLS33G0BEH37USBX.uasset"
+[2025.10.22-09.16.51:308][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/XL/U0BAKX7624EKY7QR8W4QDX.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/XL/U0BAKX7624EKY7QR8W4QDX.uasset"
+[2025.10.22-09.16.51:310][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/BL/WB7S47W2IE4F23EZ9SLQ1B.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/BL/WB7S47W2IE4F23EZ9SLQ1B.uasset"
+[2025.10.22-09.16.51:311][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/IP/FTEAYZDQR9M2KDS0TEPHA0.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/IP/FTEAYZDQR9M2KDS0TEPHA0.uasset"
+[2025.10.22-09.16.51:313][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/C7/LHEOZ28EA00LZG55QEAGFH.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/C7/LHEOZ28EA00LZG55QEAGFH.uasset"
+[2025.10.22-09.16.51:315][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/LE/5ZDRK6QRB1CF1JSS3HJKPV.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/LE/5ZDRK6QRB1CF1JSS3HJKPV.uasset"
+[2025.10.22-09.16.51:317][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/TO/58Y2HCG1B7M6VAJN1E38IS.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/TO/58Y2HCG1B7M6VAJN1E38IS.uasset"
+[2025.10.22-09.16.51:318][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/V1/DLNCFC4C5RQ8EDPCDYCKHQ.uasset"
+[2025.10.22-09.16.51:320][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/UU/1ZY1QFVHRWZSP8YI4VZLMK.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/UU/1ZY1QFVHRWZSP8YI4VZLMK.uasset"
+[2025.10.22-09.16.51:321][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/TI/UOUH4EXJHIGJNF2D0Y7CPX.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/TI/UOUH4EXJHIGJNF2D0Y7CPX.uasset"
+[2025.10.22-09.16.51:323][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/V6/DING1S8EVR2AQW03U1ABGV.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/V6/DING1S8EVR2AQW03U1ABGV.uasset"
+[2025.10.22-09.16.51:325][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/W0/RTEFXSATTAVCPYEQHKNEY1.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/W0/RTEFXSATTAVCPYEQHKNEY1.uasset"
+[2025.10.22-09.16.51:327][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/96/JEF6NHSL8XXSCQTOUZMFM6.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/96/JEF6NHSL8XXSCQTOUZMFM6.uasset"
+[2025.10.22-09.16.51:329][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/I5/5U3R0J6P3EIOET939AGA6V.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/I5/5U3R0J6P3EIOET939AGA6V.uasset"
+[2025.10.22-09.16.51:330][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/6I/29E05UQXOAGP6TCP5CN0BQ.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/6I/29E05UQXOAGP6TCP5CN0BQ.uasset"
+[2025.10.22-09.16.51:332][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/R5/8FN93FIP5FEZUI0RECK61K.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/R5/8FN93FIP5FEZUI0RECK61K.uasset"
+[2025.10.22-09.16.51:333][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/U8/LL0QNHFPYL403X5YW0FGG6.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/U8/LL0QNHFPYL403X5YW0FGG6.uasset"
+[2025.10.22-09.16.51:335][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/HV/3VH3D4CLM38OC4F8ICXDVQ.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/HV/3VH3D4CLM38OC4F8ICXDVQ.uasset"
+[2025.10.22-09.16.51:337][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/NI/7Z9KFUHGDC33I0LYBUUYUQ.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/NI/7Z9KFUHGDC33I0LYBUUYUQ.uasset"
+[2025.10.22-09.16.51:338][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/2H/HS4VI3UZJT1LNKM6HC7PL2.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/2H/HS4VI3UZJT1LNKM6HC7PL2.uasset"
+[2025.10.22-09.16.51:340][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/W2/920TYXDM12T8GKK1E0M892.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/W2/920TYXDM12T8GKK1E0M892.uasset"
+[2025.10.22-09.16.51:342][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/I3/0VVXG3S0B4RN6QSHFSGKGX.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/I3/0VVXG3S0B4RN6QSHFSGKGX.uasset"
+[2025.10.22-09.16.51:344][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/7M/FNN1ELJOC3KQT4JN0YDHT6.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/7M/FNN1ELJOC3KQT4JN0YDHT6.uasset"
+[2025.10.22-09.16.51:346][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/3M/CN6DASGRPPAPEICARMETU3.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/3M/CN6DASGRPPAPEICARMETU3.uasset"
+[2025.10.22-09.16.51:347][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/KL/17EY7JSE7TF01OWV9LBSC1.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/KL/17EY7JSE7TF01OWV9LBSC1.uasset"
+[2025.10.22-09.16.51:349][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/QY/FSMNL3KLM133J5VKZAU0BE.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/QY/FSMNL3KLM133J5VKZAU0BE.uasset"
+[2025.10.22-09.16.51:350][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/8O/BVYOAIREBMOAK7193TKE2N.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/8O/BVYOAIREBMOAK7193TKE2N.uasset"
+[2025.10.22-09.16.51:353][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/9S/AT66MUZW91DYUD6WM5FH0P.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/9S/AT66MUZW91DYUD6WM5FH0P.uasset"
+[2025.10.22-09.16.51:354][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/AC/RFQ7INIHB1Q1JWY7DWYQ5Y.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/AC/RFQ7INIHB1Q1JWY7DWYQ5Y.uasset"
+[2025.10.22-09.16.51:356][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/D2/66RZ3E9MEBJPV125V7SWQ6.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/D2/66RZ3E9MEBJPV125V7SWQ6.uasset"
+[2025.10.22-09.16.51:357][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/1/E5/IOQOGT9AJYYZQ06SOLO6RW.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalObjects__/FirstPerson/Lvl_FirstPerson/1/E5/IOQOGT9AJYYZQ06SOLO6RW.uasset"
+[2025.10.22-09.16.51:359][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/LJ/OQX9YN9UJ9NNRX6ERJ3PPZ.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/LJ/OQX9YN9UJ9NNRX6ERJ3PPZ.uasset"
+[2025.10.22-09.16.51:361][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/2N/XWEBNOYZ7JA5DZOPBGZ71S.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/2N/XWEBNOYZ7JA5DZOPBGZ71S.uasset"
+[2025.10.22-09.16.51:362][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/HH/BIAWP2Z8HW32809JWMRLU3.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/HH/BIAWP2Z8HW32809JWMRLU3.uasset"
+[2025.10.22-09.16.51:364][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/U0/N7D7PHGDI2A4EOLD58TA92.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/U0/N7D7PHGDI2A4EOLD58TA92.uasset"
+[2025.10.22-09.16.51:365][583]LogPackFactory: Copied "../../../Templates/TP_FirstPersonBP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/J3/JQWZC33CXMXDX87CAIWJ94.uasset" to "../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/J3/JQWZC33CXMXDX87CAIWJ94.uasset"
+[2025.10.22-09.16.51:398][583]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-09.16.51:458][583]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/MI_FirstPersonColorway] ([1] browsable assets)...
+[2025.10.22-09.16.51:460][583]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.10.22-09.16.51:514][583]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/FirstPerson/MI_FirstPersonColorway.MI_FirstPersonColorway]
+[2025.10.22-09.16.51:514][583]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/MI_FirstPersonColorway]
+[2025.10.22-09.16.51:536][583]LogSavePackage: Moving output files for package: /Game/FirstPerson/MI_FirstPersonColorway
+[2025.10.22-09.16.51:536][583]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/MI_FirstPersonColorway452AAB044EE842710EF84C98DC2CE543.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/FirstPerson/MI_FirstPersonColorway.uasset'
+[2025.10.22-09.16.51:552][583]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.035 ms
+[2025.10.22-09.16.52:231][583]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 385.000 MiB, MemoryLimit = 343.832031 MiB 
+[2025.10.22-09.16.52:231][583]LogAsyncCompilation: Display: BEWARE: AssetCompile memory estimate is greater than available, but we're running it [TextureDerivedData] anyway! RequiredMemory = 0.000 MiB + 385.000 MiB, MemoryLimit = 343.964844 MiB 
+[2025.10.22-09.16.52:459][583]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-09.16.52:459][583]LogContentValidation: Enabled validators:
+[2025.10.22-09.16.52:459][583]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-09.16.52:459][583]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-09.16.52:459][583]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-09.16.52:459][583]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-09.16.52:459][583]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-09.16.52:459][583]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-09.16.52:461][583]AssetCheck: /Game/FirstPerson/MI_FirstPersonColorway Validating asset
+[2025.10.22-09.16.52:561][583]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.22-09.16.52:565][584]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.10.22-09.16.59:416][991]LogSlate: Window 'Add Content to the Project' being destroyed
+[2025.10.22-09.19.01:521][ 29]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 349.192047
+[2025.10.22-09.19.02:524][ 32]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-09.19.02:524][ 32]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 349.858215, Update Interval: 310.735809
+[2025.10.22-09.19.34:618][389]LogStreaming: Display: FlushAsyncLoading(430): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.22-09.19.34:619][389]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Sprint.IA_Sprint
+[2025.10.22-09.20.06:280][115]LogSlate: Window 'IA_Sprint' being destroyed
+[2025.10.22-09.20.10:040][394]LogStreaming: Display: FlushAsyncLoading(431): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.22-09.20.10:043][394]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Default.IMC_Default
+[2025.10.22-09.20.40:071][ 77]LogSlate: Window 'IMC_Default' being destroyed
+[2025.10.22-09.20.42:990][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.10.22-09.20.43:000][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-09.20.43:047][339]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2025.10.22-09.20.43:047][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2025.10.22-09.20.43:049][339]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2025.10.22-09.20.43:050][339]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/IMC_DefaultC9DC6FAD4A4B3A44FF24599EAA565418.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/Input/IMC_Default.uasset'
+[2025.10.22-09.20.43:059][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.448 ms (total: 213.483 ms)
+[2025.10.22-09.20.43:113][339]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-09.20.43:113][339]LogContentValidation: Enabled validators:
+[2025.10.22-09.20.43:113][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-09.20.43:113][339]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-09.20.43:113][339]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-09.20.43:113][339]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-09.20.43:113][339]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-09.20.43:113][339]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-09.20.43:114][339]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2025.10.22-09.24.16:518][749]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 664.188965
+[2025.10.22-09.24.17:519][752]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-09.24.17:519][752]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 664.856812, Update Interval: 330.352478
+[2025.10.22-09.28.41:196][367]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.22-09.28.41:208][367]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.22-09.28.41:214][367]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.22-09.28.41:229][368]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.22-09.28.49:016][980]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Weapon
+[2025.10.22-09.28.49:035][980]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.22-09.29.18:349][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.10.22-09.29.18:351][356]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DanielMonksProduction/Levels/MAP_DanielMonks' took 0.019
+[2025.10.22-09.29.18:353][356]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DanielMonksProduction/Blueprints/BP_Weapon] ([2] browsable assets)...
+[2025.10.22-09.29.18:353][356]OBJ SavePackage: Finished generating thumbnails for package [/Game/DanielMonksProduction/Blueprints/BP_Weapon]
+[2025.10.22-09.29.18:367][356]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DanielMonksProduction/Blueprints/BP_Weapon_Auto1
+[2025.10.22-09.29.18:368][356]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/BP_Weapon_Auto1BAE5D2D54D35BA68D924D7B23BB98DAA.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/Autosaves/Game/DanielMonksProduction/Blueprints/BP_Weapon_Auto1.uasset'
+[2025.10.22-09.29.18:368][356]LogFileHelpers: Auto-saving content packages took 0.017
+[2025.10.22-09.29.54:289][464]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1001.959106
+[2025.10.22-09.29.55:290][467]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-09.29.55:290][467]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1002.625977, Update Interval: 303.519409
+[2025.10.22-09.30.27:457][645]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DanielMonksProduction/Blueprints/BP_Weapon.BP_Weapon
+[2025.10.22-09.30.27:459][645]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.10.22-09.30.27:637][645]LogStreaming: Display: FlushAsyncLoading(432): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.22-09.30.59:949][322]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.10.22-09.31.05:105][657]LogStreaming: Display: FlushAsyncLoading(629): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.22-09.31.05:131][657]LogTexture: Display: Building textures: /Game/Weapons/Rifle/Textures/T_Rifle_BC.T_Rifle_BC (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 115.583323 MB), EncodeSpeed: Fast
+[2025.10.22-09.31.05:131][657]LogTexture: Display: Building textures: /Game/Weapons/Rifle/Textures/T_Rifle_N.T_Rifle_N (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 169.499988 MB), EncodeSpeed: Fast
+[2025.10.22-09.31.05:174][657]LogSkeletalMesh: Building Skeletal Mesh SKM_Rifle...
+[2025.10.22-09.31.05:424][673]LogSkeletalMesh: Built Skeletal Mesh [0.25s] /Game/Weapons/Rifle/Meshes/SKM_Rifle.SKM_Rifle
+[2025.10.22-09.31.05:443][675]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.10.22-09.31.10:536][912]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: ================================================
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: Total job queries 456, among them cache hits 26 (5.70%), DDC hits 357 (78.29%), Duplicates 69 (15.13%)
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: Tracking 361 distinct input hashes that result in 268 distinct outputs (74.24%)
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: RAM used: 3.67 MiB of 819.20 MiB budget. Usage: 0.45%
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: Shaders Compiled: 4
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: Average time worker was idle: 0.44 s
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.10 s
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: Job execution time: average 2.76 s, max 3.35 s
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: Job life time (pending + execution): average 2.79 s, max 3.35
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: Shader code size: total 33.137 KiB, numShaders 4, average 8.284 KiB, min 5.359 KiB, max 11.723 KiB
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.66 s
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: Average processing rate: 0.86 jobs/sec
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: Total thread time: 2.872 s
+[2025.10.22-09.31.18:527][353]LogShaderCompilers: Display: Total thread preprocess time: 6.989 s
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display: Percentage time preprocessing: 243.33%
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display: Effective parallelization: 0.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.077102
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.69 sec, max 0.69 sec, min 0.69 sec)
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 40.47% of total time (compiled    1 times, average 1.16 sec, max 1.16 sec, min 1.16 sec)
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.86% of total time (compiled    1 times, average 0.69 sec, max 0.69 sec, min 0.69 sec)
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display:                                                 FLumenCardPS - 17.84% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.82% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display: === Material stats ===
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display: Materials Translated:    153
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display: Material Translation Only: 0.06 s (48%)
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display: Material Cache Hits: 43 (28%)
+[2025.10.22-09.31.18:528][353]LogShaderCompilers: Display: ================================================
+[2025.10.22-09.32.21:534][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.10.22-09.32.23:771][768]LogSlate: Window 'BP_Weapon' being destroyed
+[2025.10.22-09.32.23:785][768]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-09.32.23:789][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-09.32.23:866][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2025.10.22-09.32.49:016][223]LogStreaming: Display: FlushAsyncLoading(630): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.22-09.32.49:041][223]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter.BP_FirstPersonShooterCharacter
+[2025.10.22-09.32.49:042][223]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.22-09.32.49:554][223]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.10.22-09.33.06:902][646]LogStreaming: Display: FlushAsyncLoading(631): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.22-09.33.55:592][433]LogStreaming: Display: FlushAsyncLoading(632): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.22-09.33.55:658][434]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.10.22-09.33.57:435][526]LogSlate: Window 'Open Asset' being destroyed
+[2025.10.22-09.33.57:446][526]LogSlate: Window 'Open Asset' being destroyed
+[2025.10.22-09.33.57:523][527]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.10.22-09.34.02:847][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.10.22-09.34.02:852][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-09.34.02:898][846]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/DanielMonksProduction/Blueprints/BP_Weapon] ([2] browsable assets)...
+[2025.10.22-09.34.02:966][846]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DanielMonksProduction/Blueprints/BP_Weapon.BP_Weapon]
+[2025.10.22-09.34.02:966][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/DanielMonksProduction/Blueprints/BP_Weapon]
+[2025.10.22-09.34.02:970][846]LogSavePackage: Moving output files for package: /Game/DanielMonksProduction/Blueprints/BP_Weapon
+[2025.10.22-09.34.02:970][846]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/BP_Weapon1375CEC942A6776CD08522BDDCEC4A56.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/DanielMonksProduction/Blueprints/BP_Weapon.uasset'
+[2025.10.22-09.34.02:976][846]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter] ([2] browsable assets)...
+[2025.10.22-09.34.02:987][846]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter.BP_FirstPersonShooterCharacter]
+[2025.10.22-09.34.02:987][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter]
+[2025.10.22-09.34.03:004][846]LogSavePackage: Moving output files for package: /Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter
+[2025.10.22-09.34.03:005][846]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/BP_FirstPersonShooterCharacter5BF80D194DA71713C5990FA5B1795E43.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter.uasset'
+[2025.10.22-09.34.03:016][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.146 ms (total: 376.629 ms)
+[2025.10.22-09.34.03:071][846]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.22-09.34.03:071][846]LogContentValidation: Enabled validators:
+[2025.10.22-09.34.03:071][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-09.34.03:071][846]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-09.34.03:071][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-09.34.03:071][846]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-09.34.03:071][846]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-09.34.03:071][846]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-09.34.03:071][846]AssetCheck: /Game/DanielMonksProduction/Blueprints/BP_Weapon Validating asset
+[2025.10.22-09.34.03:071][846]AssetCheck: /Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter Validating asset
+[2025.10.22-09.34.03:095][846]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.22-09.34.18:650][901]LogShaderCompilers: Display: ================================================
+[2025.10.22-09.34.18:650][901]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.22-09.34.18:650][901]LogShaderCompilers: Display: Total job queries 469, among them cache hits 31 (6.61%), DDC hits 362 (77.19%), Duplicates 69 (14.71%)
+[2025.10.22-09.34.18:650][901]LogShaderCompilers: Display: Tracking 369 distinct input hashes that result in 276 distinct outputs (74.80%)
+[2025.10.22-09.34.18:650][901]LogShaderCompilers: Display: RAM used: 3.73 MiB of 819.20 MiB budget. Usage: 0.45%
+[2025.10.22-09.34.18:650][901]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.22-09.34.18:650][901]LogShaderCompilers: Display: Shaders Compiled: 7
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Average time worker was idle: 124.92 s
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.10 s
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Job execution time: average 2.05 s, max 3.35 s
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Job life time (pending + execution): average 2.08 s, max 3.35
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Shader code size: total 53.367 KiB, numShaders 7, average 7.623 KiB, min 4.277 KiB, max 11.723 KiB
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.33 s
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Average processing rate: 1.11 jobs/sec
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Total thread time: 5.485 s
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Total thread preprocess time: 7.166 s
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Percentage time preprocessing: 130.64%
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Effective parallelization: 0.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.108351
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.26 sec, max 1.36 sec, min 1.16 sec)
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.71 sec, max 0.74 sec, min 0.69 sec)
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.51 sec)
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 46.03% of total time (compiled    2 times, average 1.26 sec, max 1.36 sec, min 1.16 sec)
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.90% of total time (compiled    2 times, average 0.71 sec, max 0.74 sec, min 0.69 sec)
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display:                                                 FLumenCardPS - 18.74% of total time (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.51 sec)
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.33% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: === Material stats ===
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Materials Translated:    155
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Material Translation Only: 0.06 s (48%)
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: Material Cache Hits: 43 (28%)
+[2025.10.22-09.34.18:651][901]LogShaderCompilers: Display: ================================================
+[2025.10.22-09.35.06:959][384]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1314.626953
+[2025.10.22-09.35.07:926][387]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.22-09.35.07:926][387]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1315.260864, Update Interval: 342.196106
+[2025.10.22-09.36.41:545][158]LogStreaming: Display: FlushAsyncLoading(633): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.22-09.36.41:548][158]LogStaticMesh: Display: Building static mesh SM_Rifle (Required Memory Estimate: 22.832939 MB)...
+[2025.10.22-09.36.41:590][158]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Weapons/Rifle/Meshes/SM_Rifle) ...
+[2025.10.22-09.36.41:652][158]LogStaticMesh: Adjacency [0.00s], tris: 16033, UVs 2, Color
+[2025.10.22-09.36.41:681][158]LogStaticMesh: Clustering [0.03s]. Ratio: 1.007936
+[2025.10.22-09.36.41:684][158]LogStaticMesh: Leaves [0.00s]
+[2025.10.22-09.36.42:001][158]LogStaticMesh: Reduce [0.32s]
+[2025.10.22-09.36.42:254][158]LogStaticMesh: Fallback [0.25s], num tris: 4857
+[2025.10.22-09.36.42:355][158]LogStaticMesh: Fallback [0.10s], num tris: 2175
+[2025.10.22-09.36.42:363][158]LogStaticMesh: ConstrainClusters:
+[2025.10.22-09.36.42:363][158]LogStaticMesh:   Input: 262 Clusters, 33035 Triangles and 31878 Vertices
+[2025.10.22-09.36.42:363][158]LogStaticMesh:   Output without splits: 262 Clusters, 33035 Triangles and 32052 Vertices
+[2025.10.22-09.36.42:363][158]LogStaticMesh:   Output with splits: 262 Clusters, 33035 Triangles and 32052 Vertices
+[2025.10.22-09.36.42:364][158]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 262, Slow Path Clusters: 0, 1 Material: 262, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.10.22-09.36.42:367][158]LogStaticMesh: WritePages:
+[2025.10.22-09.36.42:367][158]LogStaticMesh:   Root: GPU size: 29808 bytes. 1 Pages. 29808.000 bytes per page (90.967% utilization).
+[2025.10.22-09.36.42:367][158]LogStaticMesh:   Streaming: GPU size: 495884 bytes. 4 Pages (4 with relative encoding). 123971.000 bytes per page (94.582% utilization).
+[2025.10.22-09.36.42:367][158]LogStaticMesh:   Page data disk size: 451428 bytes. Fixup data size: 1624 bytes.
+[2025.10.22-09.36.42:367][158]LogStaticMesh:   Total GPU size: 525692 bytes, Total disk size: 453052 bytes.
+[2025.10.22-09.36.42:367][158]LogStaticMesh: Encode [0.01s]
+[2025.10.22-09.36.42:368][158]LogStaticMesh: NaniteBuild [0.72s]
+[2025.10.22-09.36.42:521][158]LogStaticMesh: Built static mesh [0.97s] /Game/Weapons/Rifle/Meshes/SM_Rifle.SM_Rifle
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: ================================================
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Total job queries 493, among them cache hits 33 (6.69%), DDC hits 382 (77.48%), Duplicates 69 (14.00%)
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Tracking 391 distinct input hashes that result in 293 distinct outputs (74.94%)
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: RAM used: 3.87 MiB of 819.20 MiB budget. Usage: 0.47%
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Shaders Compiled: 9
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Average time worker was idle: 138.55 s
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.10 s
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Job execution time: average 2.14 s, max 3.35 s
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Job life time (pending + execution): average 2.16 s, max 3.35
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Shader code size: total 101.695 KiB, numShaders 9, average 11.299 KiB, min 4.277 KiB, max 25.184 KiB
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.07 s
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Average processing rate: 0.99 jobs/sec
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Total thread time: 9.865 s
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Total thread preprocess time: 7.499 s
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Percentage time preprocessing: 76.01%
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Effective parallelization: 1.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.135977
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.49 sec, max 2.49 sec, min 2.49 sec)
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.26 sec, max 1.36 sec, min 1.16 sec)
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.71 sec, max 0.74 sec, min 0.69 sec)
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.51 sec)
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 25.59% of total time (compiled    2 times, average 1.26 sec, max 1.36 sec, min 1.16 sec)
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 25.27% of total time (compiled    1 times, average 2.49 sec, max 2.49 sec, min 2.49 sec)
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display:                                                 FLumenCardCS - 19.13% of total time (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.40% of total time (compiled    2 times, average 0.71 sec, max 0.74 sec, min 0.69 sec)
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display:                                                 FLumenCardPS - 10.42% of total time (compiled    2 times, average 0.51 sec, max 0.52 sec, min 0.51 sec)
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: === Material stats ===
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Materials Translated:    155
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Material Translation Only: 0.06 s (48%)
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: Material Cache Hits: 43 (28%)
+[2025.10.22-09.37.18:662][207]LogShaderCompilers: Display: ================================================
+[2025.10.22-09.38.30:696][342]LogSlate: Window 'BP_FirstPersonShooterCharacter' being destroyed
+[2025.10.22-09.38.30:709][342]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-09.38.30:709][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-09.38.30:796][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.10.22-09.38.33:004][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.22-09.38.33:009][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-09.38.33:066][545]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter] ([2] browsable assets)...
+[2025.10.22-09.38.33:136][545]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter.BP_FirstPersonShooterCharacter]
+[2025.10.22-09.38.33:136][545]OBJ SavePackage: Finished generating thumbnails for package [/Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter]
+[2025.10.22-09.38.33:151][545]LogSavePackage: Moving output files for package: /Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter
+[2025.10.22-09.38.33:152][545]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/BP_FirstPersonShooterCharacterAC60F4CC4484418AE3868494F086228D.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter.uasset'
+[2025.10.22-09.38.33:165][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.729 ms (total: 532.359 ms)
+[2025.10.22-09.38.33:228][545]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-09.38.33:228][545]LogContentValidation: Enabled validators:
+[2025.10.22-09.38.33:228][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-09.38.33:228][545]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-09.38.33:228][545]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-09.38.33:228][545]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-09.38.33:228][545]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-09.38.33:228][545]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-09.38.33:228][545]AssetCheck: /Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter Validating asset
+[2025.10.22-09.38.34:878][657]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.22-09.38.34:891][657]LogContentBundle: [MAP_DanielMonks(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.22-09.38.34:892][657]LogWorldPartition: Display: GenerateStreaming for 'MAP_DanielMonks' started...
+[2025.10.22-09.38.34:896][657]LogWorldPartition: Display: GenerateStreaming for 'MAP_DanielMonks' took 4.951 ms
+[2025.10.22-09.38.34:905][657]LogPlayLevel: [PlayLevel] Compiling BP_FirstPersonShooterCharacter before play...
+[2025.10.22-09.38.34:975][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.10.22-09.38.34:976][657]LogPlayLevel: PlayLevel: Blueprint regeneration took 72 ms (1 blueprints)
+[2025.10.22-09.38.34:994][657]LogPlayLevel: Display: Creating online subsystem for client :Context_14
+[2025.10.22-09.38.35:003][657]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.10.22-09.38.35:029][658]LogPlayLevel: Creating play world package: /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks
+[2025.10.22-09.38.35:041][658]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.22-09.38.35:043][658]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.652 ms
+[2025.10.22-09.38.35:043][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014576s)
+[2025.10.22-09.38.35:043][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DanielMonksProduction/Levels/MAP_DanielMonks.MAP_DanielMonks to /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks (0.014683s)
+[2025.10.22-09.38.35:069][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.22-09.38.35:074][658]LogChaosDD: Creating Chaos Debug Draw Scene for world MAP_DanielMonks
+[2025.10.22-09.38.35:080][658]LogWorldPartition: ULevel::OnLevelLoaded(MAP_DanielMonks)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.22-09.38.35:080][658]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.22-09.38.35:081][658]LogWorldPartition: UWorldPartition::Initialize : World = /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.22-09.38.35:081][658]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.22-09.38.35:083][658]LogWorldPartition: Display: WorldPartition initialize took 2.995 ms (total: 315.318 ms)
+[2025.10.22-09.38.35:084][658]LogPlayLevel: PIE: World Init took: (0.009251s)
+[2025.10.22-09.38.35:087][658]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.10.22-09.38.35:089][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.22-09.38.35:089][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.22-09.38.35:089][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.22-09.38.35:089][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.22-09.38.35:089][658]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.22-09.38.35:089][658]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.22-09.38.35:089][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.22-09.38.35:089][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.22-09.38.35:092][658]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.22-09.38.35:092][658]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.22-09.38.35:092][658]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.22-09.38.35:095][658]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.22-09.38.35:119][658]LogAudioMixer: Display: Using Audio Hardware Device Headphones (HyperX Cloud III)
+[2025.10.22-09.38.35:122][658]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.22-09.38.35:122][658]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.22-09.38.35:123][658]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.22-09.38.35:128][658]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.10.22-09.38.35:128][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.10.22-09.38.35:129][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.10.22-09.38.35:129][658]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.10.22-09.38.35:130][658]LogInit: FAudioDevice initialized with ID 2.
+[2025.10.22-09.38.35:130][658]LogAudio: Display: Audio Device (ID: 2) registered with world 'MAP_DanielMonks'.
+[2025.10.22-09.38.35:132][658]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.22-09.38.35:147][658]LogStreaming: Display: FlushAsyncLoading(634): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.22-09.38.35:170][658]LogLoad: Game class is 'BP_FirstPersonShooterGameMode_C'
+[2025.10.22-09.38.35:175][658]LogWorld: Bringing World /Game/DanielMonksProduction/Levels/UEDPIE_0_MAP_DanielMonks.MAP_DanielMonks up for play (max tick rate 0) at 2025.10.22-10.38.35
+[2025.10.22-09.38.35:176][658]LogWorld: Bringing up level for play took: 0.004321
+[2025.10.22-09.38.35:230][658]LogBlueprintUserMessages: [BP_FirstPersonShooterCharacter_C_0] Hello
+[2025.10.22-09.38.35:233][658]PIE: Server logged in
+[2025.10.22-09.38.35:237][658]PIE: Play in editor total start time 0.349 seconds.
+[2025.10.22-09.38.35:327][659]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.22-09.38.44:997][180]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter.BP_FirstPersonShooterCharacter
+[2025.10.22-09.38.44:997][180]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.10.22-09.38.56:855][665]LogSlate: Window 'BP_FirstPersonShooterCharacter' being destroyed
+[2025.10.22-09.38.56:868][665]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-09.38.56:868][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-09.38.56:954][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.10.22-09.39.05:471][213]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter.BP_FirstPersonShooterCharacter
+[2025.10.22-09.39.05:471][213]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.10.22-09.39.15:914][653]LogSlate: Window 'BP_FirstPersonShooterCharacter' being destroyed
+[2025.10.22-09.39.15:928][653]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-09.39.15:928][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-09.39.16:012][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.10.22-09.39.20:583][897]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter.BP_FirstPersonShooterCharacter
+[2025.10.22-09.39.20:583][897]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.10.22-09.39.33:864][402]LogSlate: Window 'BP_FirstPersonShooterCharacter' being destroyed
+[2025.10.22-09.39.33:882][402]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-09.39.33:882][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-09.39.33:990][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.10.22-09.39.43:537][935]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter.BP_FirstPersonShooterCharacter
+[2025.10.22-09.39.43:537][935]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.10.22-09.39.51:010][246]LogSlate: Window 'BP_FirstPersonShooterCharacter' being destroyed
+[2025.10.22-09.39.51:024][246]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-09.39.51:024][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-09.39.51:132][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.10.22-09.39.56:197][524]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter.BP_FirstPersonShooterCharacter
+[2025.10.22-09.39.56:197][524]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.10.22-09.40.05:013][862]LogSlate: Window 'BP_FirstPersonShooterCharacter' being destroyed
+[2025.10.22-09.40.05:027][862]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.10.22-09.40.05:027][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.22-09.40.05:115][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.10.22-09.40.07:872][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.10.22-09.40.07:876][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.22-09.40.07:877][110]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter] ([2] browsable assets)...
+[2025.10.22-09.40.07:942][110]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter.BP_FirstPersonShooterCharacter]
+[2025.10.22-09.40.07:942][110]OBJ SavePackage: Finished generating thumbnails for package [/Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter]
+[2025.10.22-09.40.07:957][110]LogSavePackage: Moving output files for package: /Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter
+[2025.10.22-09.40.07:958][110]LogSavePackage: Moving '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Saved/BP_FirstPersonShooterCharacterD73C96274008A78DA854069EA4524623.tmp' to '../../../../../Users/manni/Documents/GitHub/DanielMonksPulseIntroToProgrammingProject/DanielMonksPulseIP/Content/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter.uasset'
+[2025.10.22-09.40.07:959][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.843 ms (total: 615.202 ms)
+[2025.10.22-09.40.07:962][110]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.22-09.40.07:962][110]LogContentValidation: Enabled validators:
+[2025.10.22-09.40.07:962][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.22-09.40.07:962][110]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.22-09.40.07:962][110]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.22-09.40.07:962][110]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.22-09.40.07:962][110]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.22-09.40.07:962][110]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.22-09.40.07:962][110]AssetCheck: /Game/DanielMonksProduction/Blueprints/BP_FirstPersonShooterCharacter Validating asset
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: ================================================
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Total job queries 503, among them cache hits 37 (7.36%), DDC hits 383 (76.14%), Duplicates 69 (13.72%)
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Tracking 397 distinct input hashes that result in 299 distinct outputs (75.31%)
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: RAM used: 3.90 MiB of 819.20 MiB budget. Usage: 0.48%
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Shaders Compiled: 14
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100%)
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Average time worker was idle: 131.01 s
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.10 s
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Job execution time: average 1.77 s, max 3.35 s
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Job life time (pending + execution): average 1.79 s, max 3.35
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Shader code size: total 136.383 KiB, numShaders 14, average 9.741 KiB, min 4.277 KiB, max 25.184 KiB
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.36 s
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Average processing rate: 1.35 jobs/sec
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Total thread time: 13.806 s
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Total thread preprocess time: 7.643 s
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Percentage time preprocessing: 55.36%
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Effective parallelization: 1.33 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.166655
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.49 sec, max 2.49 sec, min 2.49 sec)
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.26 sec, max 1.36 sec, min 1.16 sec)
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.84 sec, max 0.98 sec, min 0.69 sec)
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.66 sec, max 0.66 sec, min 0.66 sec)
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.19% of total time (compiled    4 times, average 0.84 sec, max 0.98 sec, min 0.69 sec)
+[2025.10.22-09.40.18:821][168]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.29% of total time (compiled    2 times, average 1.26 sec, max 1.36 sec, min 1.16 sec)
+[2025.10.22-09.40.18:822][168]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 18.06% of total time (compiled    1 times, average 2.49 sec, max 2.49 sec, min 2.49 sec)
+[2025.10.22-09.40.18:822][168]LogShaderCompilers: Display:                                                 FLumenCardCS - 13.67% of total time (compiled    1 times, average 1.89 sec, max 1.89 sec, min 1.89 sec)
+[2025.10.22-09.40.18:822][168]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.56% of total time (compiled    3 times, average 0.62 sec, max 0.72 sec, min 0.51 sec)
+[2025.10.22-09.40.18:822][168]LogShaderCompilers: Display: === Material stats ===
+[2025.10.22-09.40.18:822][168]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.22-09.40.18:822][168]LogShaderCompilers: Display: Materials Translated:    155
+[2025.10.22-09.40.18:822][168]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.10.22-09.40.18:822][168]LogShaderCompilers: Display: Material Translation Only: 0.06 s (48%)
+[2025.10.22-09.40.18:822][168]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.22-09.40.18:822][168]LogShaderCompilers: Display: Material Cache Hits: 43 (28%)
+[2025.10.22-09.40.18:822][168]LogShaderCompilers: Display: ================================================
